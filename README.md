@@ -1,4 +1,4 @@
-# Building Python Containers
+# Building Python Images
 
 Managing Python dependencies can be challenging. This guide covers how to use
 Docker to iterate over a set of dependencies to find a stable image. This 
